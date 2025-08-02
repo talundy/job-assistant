@@ -1,0 +1,32 @@
+Thomas Lundy
+(831) 205-9618 | tomalundy@gmail.com | LinkedIn: linkedin.com/in/tlundy448/
+PROFESSIONAL SUMMARY
+A recent CPE graduate looking to gain relevant experience, continue my educational journey, and pivot into
+the rapidly evolving and highly impactful fields of AI and ML.
+EDUCATION
+California Polytechnic State University Bachelor of Science, Computer Engineering Member of Eta Kappa Nu, Epsilon Phi Chapter Honors Society
+Cumulative GPA: 3.2/4.0
+CERTIFICATIONS
+San Luis Obispo, CA
+June 2025
+edX/HarvardX
+Certificate of Completion, CS50’s Introduction to Databases with SQL Certificate of Completion, Machine Learning and AI with Python WORK EXPERIENCE
+(In Progress)
+(In Progress)
+Piadina at Hotel San Luis Obispo
+Server June 2022 – Current
+Provided friendly and efficient table service in a fast-paced upper scale dining environment, ensuring
+guest satisfaction and repeat business.
+PROJECTS
+K9Kinetics
+Senior Capstone Project Sep 2024 – Mar 2025
+Created an app to track the health, movement, and location for dog and horses
+Led a team of 3 to develop an iOS application to monitor real-time location, movement patterns, and
+health metrics for dogs and horses.
+Software: Docker, Linux, Github, Arduino, Xcode
+Computer Science Outreach Program
+Teaching Computing – CSC 313 Jan 2025 – Mar 2025
+Designed a workshop for middle school students using Microsoft MakeCode and Adafruit Playground
+to communicate basic programming concepts to promote and encourage interest in STEM.
+RELEVANT COURSEWORK
+Cal Poly – STAT 350: Probability and Random Processes for Engineers (Spring 2024)

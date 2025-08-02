@@ -1,0 +1,56 @@
+Job Summary
+
+Under the general supervision of the Manager of Applications Engineering, the Technical Integration Engineer is responsible for designing, developing, documenting, and maintaining campus system and data integrations. This position focuses on creating and enhancing applications that support the university’s educational and administrative functions.
+
+The role involves developing and supporting integration methods for applications within the campus computing infrastructure, including authentication, data provisioning, and enterprise services. Leveraging current technologies and DevOps principles, the Technical Integration Engineer ensures seamless integration of critical systems, manages application builds and updates, and develops user interfaces and web services to meet the evolving needs of the university. #CalPolyITS
+
+This position is eligible for remote work pursuant to Cal Poly’s Telecommuting and Remote Work Guidelines and the CSU policy requiring that all work be performed within the State of California.
+
+Department Summary
+
+Information Technology Services (ITS) is a fast-moving team that is responsible for helping Cal Poly achieve academic excellence through developing and implementing learning, teaching, and administrative solutions which leverage technology that align with strategic goals and objectives. With a focus on continuous improvement, ITS fosters innovation, supports continuous learning, and develops people to their full potential. Our team of more than 170 professionals works in a DevOps environment to shape the technology landscape at Cal Poly.
+
+Key Qualifications
+
+Demonstrated skill developing, integrating, and deploying enterprise applications and web-based application technologies, including account management, data and system integrations, browser-based client interaction, and database application logic. 
+
+Demonstrated knowledge of HTML, CSS, JavaScript/TypeScript, XML, developing applications using modern languages (e.g., Java, Python, etc.) and vendor REST/SOAP based APIs.
+
+Demonstrated skills using database query languages to store, manipulate, and retrieve relational data (e.g., MySQL, Oracle, MSSQL, PostgreSQL, or Aurora). 
+
+Demonstrated experience working with enterprise server operating systems (Windows, Linux, containers). 
+
+Demonstrated skills working with cloud technologies (e.g., AWS, Azure, GCP) and DevOps application management strategies and techniques; demonstrated knowledge of CI/CD workflows and code management standards. 
+
+Education and Experience
+
+Bachelor’s degree and two years of relevant experience. Additional qualifying experience may be substituted for up to two years of the required education on a year-for-year basis. 
+Salary and Benefits
+
+Anticipated Hiring Range: $90,000 - $115,000 Per Year
+
+Classification Range: $61,896 - $152,760 Per Year
+
+Factors in determining the appropriate compensation for a role include experience, skills, knowledge, abilities, education, licensure and certifications, and other business and organizational needs. The Anticipated Hiring Range referenced in the job posting is the budgeted salary or hourly range that the University reasonably expects to pay for this position. The Classification Range may be broader than what the University anticipates paying for this position, based on internal equity, budget, and collective bargaining agreements (when applicable).
+
+Cal Poly offers a best-in-class benefits program, including health, dental and vision insurance, retirement participation in the Public Employees' Retirement System, and educational benefits for eligible employees. See our benefits website for additional information. 
+
+Cal Poly
+
+Cal Poly is a nationally-ranked public university located in San Luis Obispo, California, and known for its Learn by Doing philosophy. Each year more than 20,000 top-tier students come to San Luis Obispo to put knowledge into action, taking their learning outside the classroom as they prepare for careers in engineering, agriculture, science, business, humanities and the built environment. Cal Poly’s hands-on philosophy, small class sizes and close student-faculty mentorships result in graduates ready from day one to impact their communities, California and the world. For more information, visit calpoly.edu.
+
+Equal Opportunity and Excellence in Education and Employment
+
+This position is open and available to all regardless of race, sex, color, ethnicity or national origin. Consistent with California law and federal civil rights laws, Cal Poly provides equal opportunity in education and employment without unlawful discrimination or preferential treatment based on race, sex, color, ethnicity, or national origin. Our commitment to equal opportunity means ensuring that every student and employee has access to the resources and support they need to thrive and succeed in a university environment and in their communities. Cal Poly complies with Title VI of the Civil Rights Act of 1964, Title IX of the Education Amendments of 1972, the Americans with Disabilities Act (ADA), Section 504 of the Rehabilitation Act, the California Equity in Higher Education Act, California’s Proposition 209 (Art. I, Section 31 of the California Constitution), other applicable state and federal anti-discrimination laws, and CSU’s Nondiscrimination Policy. We prohibit discriminatory preferential treatment, segregation based on race or any other protected status, and all forms of discrimination, harassment, and retaliation in all university programs, policies, and practices.
+
+Cal Poly is a diverse community of individuals who represent many perspectives, beliefs and identities, committed to fostering an inclusive, respectful, and intellectually vibrant environment. We cultivate a culture of open dialogue, mutual respect, and belonging to support educational excellence and student success. Through academic programs, student organizations and activities, faculty initiatives, and community partnerships, we encourage meaningful engagement with diverse perspectives. As a higher education institution, we are dedicated to advancing knowledge and empowering individuals to reach their full potential by prioritizing inclusive curriculum development, faculty and staff training, student mentorship, and comprehensive support programs. At Cal Poly, excellence is built on merit, talent, diversity, accessibility, and equal opportunity for all.
+
+Supplemental Information
+
+Satisfactory completion of a background check (including a criminal records check) is required for employment. Cal Poly will make a conditional offer of employment, which may be rescinded if the background check reveals disqualifying information, and/or it is discovered that the candidate knowingly withheld or falsified information. Current employees who are offered positions on campus will be required to undergo a background check for any position where a background check is required by law or that Cal Poly has designated as sensitive. Failure to satisfactorily complete the background check may affect the continued employment of a current CSU employee who was conditionally offered the position.
+
+The person holding this position is considered a 'mandated reporter' under the California Child Abuse and Neglect Reporting Act and is required to comply with the requirements set forth in CSU Executive Order 1083 as a condition of employment.
+
+Cal Poly, San Luis Obispo is not a sponsoring agency for staff or management positions. Applicants for staff and management positions must be authorized to work for any employer in the U.S. We are unable to sponsor or take over sponsorship of an employment Visa at this time.
+
+Positions are posted for a minimum of 14 calendar days.
