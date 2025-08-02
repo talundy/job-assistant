@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Resume-Job Matcher</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>Resume-Job Matcher</h1>
+            <p>Upload your resume and job description to get a compatibility analysis</p>
+        </header>
+
+        <main>
+            <div class="upload-section">
+                <div class="upload-card">
+                    <h3>Resume</h3>
+                    <div class="file-upload-area" id="resumeUpload">
+                        <div class="upload-content">
+                            <svg class="upload-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                                <path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"></path>
+                                <polyline points="7,10 12,15 17,10"></polyline>
+                                <line x1="12" y1="15" x2="12" y2="3"></line>
+                            </svg>
+                            <p>Click to upload resume (PDF, DOC, TXT)</p>
+                            <input type="file" id="resumeFile" accept=".pdf,.doc,.docx,.txt" style="display: none;">
+                        </div>
+                    </div>
+                    <div id="resumePreview" class="file-preview" style="display: none;">
+                        <p id="resumeName"></p>
+                        <button onclick="removeFile('resume')" class="remove-btn">Remove</button>
+                    </div>
+                </div>
+
+                <div class="upload-card">
+                    <h3>Job Description</h3>
+                    <div class="file-upload-area" id="jobUpload">
+                        <div class="upload-content">
+                            <svg class="upload-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                                <path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"></path>
+                                <polyline points="7,10 12,15 17,10"></polyline>
+                                <line x1="12" y1="15" x2="12" y2="3"></line>
+                            </svg>
+                            <p>Click to upload job description (PDF, DOC, TXT)</p>
+                            <input type="file" id="jobFile" accept=".pdf,.doc,.docx,.txt" style="display: none;">
+                        </div>
+                    </div>
+                    <div id="jobPreview" class="file-preview" style="display: none;">
+                        <p id="jobName"></p>
+                        <button onclick="removeFile('job')" class="remove-btn">Remove</button>
+                    </div>
+                </div>
+            </div>
+
+            <div class="action-section">
+                <button id="analyzeBtn" class="analyze-btn" disabled>Analyze Match</button>
+            </div>
+
+            <div id="loadingSection" class="loading-section" style="display: none;">
+                <div class="spinner"></div>
+                <p>Analyzing your resume and job description...</p>
+            </div>
+
+            <div id="resultsSection" class="results-section" style="display: none;">
+                <h2>Analysis Results</h2>
+                <div class="score-section">
+                    <div class="score-circle">
+                        <span id="matchScore">0</span>
+                        <span class="score-label">Match Score</span>
+                    </div>
+                </div>
+                <div class="analysis-grid">
+                    <div class="analysis-card">
+                        <h3>Strengths</h3>
+                        <ul id="strengthsList"></ul>
+                    </div>
+                    <div class="analysis-card">
+                        <h3>Gaps</h3>
+                        <ul id="gapsList"></ul>
+                    </div>
+                    <div class="analysis-card">
+                        <h3>Suggestions</h3>
+                        <ul id="suggestionsList"></ul>
+                    </div>
+                </div>
+            </div>
+        </main>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html> 
